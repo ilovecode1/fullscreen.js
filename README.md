@@ -1,2 +1,13 @@
-# fullscreen.js
-Going Fullscreen on hundreds of devices!
+# Docs
+
+##Going Fullscreen
+
+```
+fullscreen(element);
+```
+
+##Leaving Fullscreen
+
+```
+exitFullScreen();
+```
